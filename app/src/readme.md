@@ -10,7 +10,7 @@ This app is built using-
 
 # Demo
 Step 1: Select the Widget<br><br>
-![Alt text](/S1.png)
+![S1](https://github.com/suma30/StickyNotes/assets/112741893/8a931c2f-c668-40eb-8129-b71fa5df5d17)
 
 Step 2: Place the Widget<br><br>
 ![S2](./demo_pics/S2.png)
