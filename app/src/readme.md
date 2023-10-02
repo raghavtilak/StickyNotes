@@ -10,7 +10,7 @@ This app is built using-
 
 # Demo
 Step 1: Select the Widget<br><br>
-![S1](./demo_pics/S1.png)
+![Alt text](S1.png)
 
 Step 2: Place the Widget<br><br>
 ![S2](./demo_pics/S2.png)
